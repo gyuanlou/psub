@@ -13,9 +13,9 @@ var init_wrangler_modules_watch = __esm({
   }
 });
 
-// C:/Users/WIN/AppData/Roaming/npm/node_modules/wrangler/templates/modules-watch-stub.js
+
 var init_modules_watch_stub = __esm({
-  "C:/Users/WIN/AppData/Roaming/npm/node_modules/wrangler/templates/modules-watch-stub.js"() {
+  "node_modules/wrangler/templates/modules-watch-stub.js"() {
     init_wrangler_modules_watch();
   }
 });
